@@ -36,4 +36,8 @@ class MainActivity : AppCompatActivity() {
             else -> super.onOptionsItemSelected(item)
         }
     }
+    fun overnload(){
+        var t1=3;
+        var t2 = 6;
+    }
 }
