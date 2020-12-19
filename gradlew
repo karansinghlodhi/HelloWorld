@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-#111112222222
+#1111122222223343434
 
 ##############################################################################
 ##
@@ -28,7 +28,7 @@ cd "$SAVED" >/dev/null
 APP_NAME="Gradle"
 APP_BASE_NAME=`basename "$0"`
 
-# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
+# Add default JVM options here. You can also use Jgit aAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
 DEFAULT_JVM_OPTS=""
 
 # Use the maximum available, or set MAX_FD != -1 to use that value.
